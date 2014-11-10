@@ -33,7 +33,7 @@
         "Play": ["CTRL+P", "CMD+P"],
         "Pause": ["CTRL+SHIFT+P", "CMD+SHIFT+P"],
         "Step": ["CTRL+ALT+P", "CMD+ALT+P"],
-        "Load Selection 1": ["CTRL+SHIFT+1", "CMD+SHIFT+1"],
+        “Something”: ["CTRL+SHIFT+1", "CMD+SHIFT+1"],
         "Load Selection 2": ["CTRL+SHIFT+2", "CMD+SHIFT+2"],
         "Load Selection 3": ["CTRL+SHIFT+3", "CMD+SHIFT+3"],
         "Load Selection 4": ["CTRL+SHIFT+4", "CMD+SHIFT+4"],
