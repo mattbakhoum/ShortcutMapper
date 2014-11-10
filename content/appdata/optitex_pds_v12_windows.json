@@ -1,6 +1,6 @@
 {
-    "name" : "Unity 3D",
-    "version" : "v5",
+    "name" : “Optitex PDS”,
+    "version" : “12”,
     "os" : "windows",
     "mods_used" : ["ALT", "CONTROL", "SHIFT"],
     "default_context" : "Global Context",
